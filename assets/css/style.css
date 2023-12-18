@@ -15,8 +15,8 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  background: #f6f9ff;
-  color: #444444;
+  background: #fd9449;
+  color: #000000;
 }
 
 a {
@@ -64,7 +64,7 @@ h6 {
   font-size: 24px;
   margin-bottom: 0;
   font-weight: 600;
-  color: #012970;
+  color: #001b48;
 }
 
 /*--------------------------------------------------------------
@@ -321,11 +321,11 @@ h6 {
 }
 
 .breadcrumb .breadcrumb-item::before {
-  color: #899bbd;
+  color: #010308;
 }
 
 .breadcrumb .active {
-  color: #51678f;
+  color: #000001;
   font-weight: 600;
 }
 
@@ -381,7 +381,7 @@ h6 {
   z-index: 997;
   height: 60px;
   box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
-  background-color: #fff;
+  background-color: #ffffff;
   padding-left: 20px;
   /* Toggle Sidebar Button */
   /* Search Bar */
@@ -610,7 +610,7 @@ h6 {
   scrollbar-width: thin;
   scrollbar-color: #aab7cf transparent;
   box-shadow: 0px 0px 20px rgba(1, 41, 112, 0.1);
-  background-color: #fff;
+  background-color: #068ebb;
 }
 
 @media (max-width: 1199px) {
@@ -674,7 +674,7 @@ h6 {
 .sidebar-nav .nav-heading {
   font-size: 11px;
   text-transform: uppercase;
-  color: #899bbd;
+  color: #000000;
   font-weight: 600;
   margin: 10px 0 5px 15px;
 }
