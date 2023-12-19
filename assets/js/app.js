@@ -53,7 +53,7 @@ function showInfo(){
     document.querySelectorAll('.trainingDetails').forEach(info => info.remove())
     getData.forEach((element, index) => {
         let createElement = `<tr class="trainingDetails">
-            <td>${index+1}</td>
+           
            
             <td>${element.trainingNo}</td>
             <td>${element.trainingTitle}</td>
