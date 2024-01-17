@@ -69,3 +69,5 @@ function deleteInfo(index){
         showInfo()
     }
 }
+
+
